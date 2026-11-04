@@ -1,0 +1,6 @@
+id;Comprimento;Largura;Profundidade;Materia_prima;largura_corte;custo_unidade;Qtd
+1;1600;800;25;Teca;4;638.19;4
+2;1600;800;19;Teca;4;425.43;8
+3;1200;800;19;Teca;4;372.23;
+4;1600;600;19;Teca;4;372.23;
+5;600;200;19;Teca;4;58.40;
