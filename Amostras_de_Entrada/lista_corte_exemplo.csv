@@ -1,0 +1,7 @@
+Quantidade;Comprimento;Largura;Profundidade;Função;Material;Complemento;Girar
+2;513;304;19;Lateral;2,3,4,5;;Não
+1;500;304;19;Divisoria;2,3,4,5;;Não
+5;487;30;19;Prateleira;2,3,4,5;;Sim
+//1;310;170;19;Suporte opcional;2,3,;Utilizado no Móvel versão B;Não
+2;200;47;19;Porta;2,3,4;;Não
+2;921;30;19;Porta;2,3,;;Não
